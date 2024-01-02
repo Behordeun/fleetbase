@@ -31,6 +31,8 @@
 </div>
 
 # ⭐️ Overview
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBehordeun%2Ffleetbase.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FBehordeun%2Ffleetbase?ref=badge_shield)
+
 
 Fleetbase is an open-source modular platform designed for the efficient management and orchestration of logistics operations. It serves as both a powerful operational tool for businesses and a flexible foundation for developers. The platform's core is built around a collection of "extensions," which create a customizable framework capable of meeting a wide range of supply chain and logistics requirements.
 
@@ -62,6 +64,9 @@ Each extension in Fleetbase is purposefully engineered to fulfill specific roles
   - [Community](#-community)
   - [Creators](#-creators)
   - [License & Copyright](#-license-and-copyright)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBehordeun%2Ffleetbase.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBehordeun%2Ffleetbase?ref=badge_large)
 
 # 📦 What's Included
 
